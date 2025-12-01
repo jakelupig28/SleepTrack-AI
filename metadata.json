@@ -1,0 +1,5 @@
+{
+  "name": "SleepTrack AI",
+  "description": "A web-based dashboard that uses AI to analyze sleep habits with a midnight blue dark mode theme.",
+  "requestFramePermissions": []
+}
